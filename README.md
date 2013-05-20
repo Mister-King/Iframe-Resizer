@@ -1,16 +1,16 @@
 Iframe Resizer
 ================
 
-This iframe resizer uses a script on the external site to give the origin site it's height.
+This iframe resizer uses a script on the external site to give the origin site it's height.  
 It makes use of HTML5 'postMessage'.
 
 Usage
 -----
 
-• Include 'iframe size receiver' on the origin page containing the iframe
+• Include 'iframe size receiver' on the origin page containing the iframe  
 • Include 'iframe size giver' on the external page
 
-The 'giver' will listen for clicks of anchor tags and give the height to the 'receiver' on the origin site again.
+The 'giver' will listen for clicks of anchor tags and give the height to the 'receiver' on the origin site again.  
 This is so that accordion/expanding text links will expand the iframe's height correctly.
 
 Feel free to edit the script!
